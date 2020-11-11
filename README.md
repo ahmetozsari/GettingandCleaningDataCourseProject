@@ -11,10 +11,10 @@
 
 # Analysis R Script
 
-Review Criteria
-- Goal	Item	Link to Item
-- Analysis R Script	run_analysis.R	R Script Link
-- Tidy Data Set	Clean Data Set	Data Set Link
-- Github Repo	Repo	Repo Link
-- Cookbook	CodeBook.md	Repo Link
-- README	ReadingItNow	Repo Link
+Goal | Item | Link to Item
+--- | --- | ---
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/ahmetozsari/datasciencecoursera/blob/master/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/ahmetozsari/GettingandCleaningDataCourseProject/blob/master/tidyData.txt "tidyData.txt")
+Github Repo | Repo |  [Repo Link](https://github.com/ahmetozsari/GettingandCleaningDataCourseProject/tree/master/ "Click to go to Repo")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/ahmetozsari/GettingandCleaningDataCourseProject/blob/master/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/ahmetozsari/GettingandCleaningDataCourseProject/blob/master/README.md "README.md")
