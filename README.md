@@ -2,7 +2,8 @@
 
 # Getting and Cleaning Data Project
 ## Author: M.H. Ahmet Ozsari
-## Data Zip File Location: UC Irvine Repo
+## Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
+
 
 # Goal of the Project
 * A tidy data set
